@@ -1,6 +1,6 @@
 - Hi, I’m @Rafael-Bruno314
-- I’m interested in computational material science, computational modeling, python and its data science, IA and machine learning libraries
-- I’m currently learning python and material science
+- I am interested in materials science and engineering, python and data science
+- I am currently studying for a master's degree in materials engineering at the Federal Center for Technological Education of Minas Gerais (CEFET-MG) 
 - My linkedIn is https://www.linkedin.com/in/rafael-fonseca-b377b456/
 - My lattes is http://lattes.cnpq.br/9309044291459230
 
